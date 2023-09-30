@@ -2,7 +2,8 @@
 
 # Music Insights Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](<img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/b6149f43-d6e4-401c-8bd6-30b8783d7d2d">
+)
 
 ## Project Overview
 
