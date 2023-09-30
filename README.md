@@ -1,5 +1,7 @@
 # Bi-Dashboards
 
+- [Screenshots](#screenshots)
+
 # Music Insights Dashboard
 
 ![Dashboard Preview](<img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/b6149f43-d6e4-401c-8bd6-30b8783d7d2d">
@@ -25,3 +27,8 @@ To explore the Music Insights Dashboard:
 
    ```bash
    git clone https://github.com/your-username/music-insights-dashboard.git
+
+## Screenshots
+
+<img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/60909400-8c68-4b82-9b6e-63ed20c0f778">
+
