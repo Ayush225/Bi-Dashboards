@@ -1,6 +1,6 @@
 # Bi-Dashboards
 
-- [Screenshots](#screenshots)
+
 
 # Music Insights Dashboard
 
@@ -31,4 +31,30 @@ To explore the Music Insights Dashboard:
 ## Screenshots
 
 <img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/60909400-8c68-4b82-9b6e-63ed20c0f778">
+
+## Usage
+This dashboard is designed to help music industry professionals gain valuable insights from their database. It can be customized and extended to suit specific data analysis needs.
+
+## Contributing
+If you'd like to contribute to this project, please follow these steps:
+
+!) Fork the repository.
+2) Create a new branch for your feature or bug fix:
+
+bash
+git checkout -b feature-name
+Make your changes and commit them:
+
+bash
+git commit -m "Add feature or fix"
+Push your changes to your forked repository:
+
+bash
+git push origin feature-name
+Open a pull request on this repository, describing your changes in detail.
+
+
+## Acknowledgments
+Special thanks to the Power BI and PostgreSQL communities for their valuable resources and support.
+Feel free to explore the Music Insights Dashboard and use it to gain insights from your own music database. If you have any questions or feedback, please don't hesitate to open an issue.
 
