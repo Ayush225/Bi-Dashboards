@@ -1,1 +1,60 @@
 
+# Bi-Dashboards
+
+
+
+# Road Accidents Dashboard
+
+![Dashboard Preview](<img width="767" alt="image" src="">
+)
+
+## Project Overview
+
+he Road Accidents Insights Dashboard is a web-based data visualization tool that provides valuable insights into road accidents. This dashboard is designed to help users analyze and explore road accident data to make informed decisions and promote road safety. It presents data in an intuitive and interactive manner, making it easier for users to understand accident patterns, identify hotspots, and draw meaningful conclusions.
+
+## Key Features
+
+- **Interactive Maps: Explore road accident data geographically using interactive maps. Filter and zoom to specific regions to get a detailed view of accident locations.
+
+- **Charts and Graphs**: : Visualize accident statistics using various charts and graphs, such as bar charts, line charts, and pie charts, to understand trends over time.
+
+- **Filtering and Sorting**: Filter and sort accident data by various parameters like date, severity, road conditions, and more for in-depth analysis..
+
+## Getting Started
+
+To use the Road Accidents Insights Dashboard, follow these steps:
+
+1) Clone the repository to your local machine:
+
+git clone https://github.com/yourusername/road-accidents-dashboard.git
+
+2) Open the project folder and navigate to the index.html file.
+
+3) Double-click the index.html file to open the dashboard in your web browser.
+
+4) Start exploring the dashboard by selecting filters, interacting with maps, and examining charts.
+
+## Data Sources
+The dashboard uses real-world road accident data from reliable sources such as government agencies or open data portals. The data is updated periodically to ensure accuracy.
+
+## Technologies Used
+HTML/CSS/JavaScript: The dashboard is built using standard web technologies for the front-end.
+
+Leaflet.js: Interactive maps are created using the Leaflet JavaScript library.
+
+Chart.js: Charts and graphs are generated using the Chart.js library.
+
+Bootstrap: The user interface is designed using the Bootstrap framework for responsive design.
+
+## Contributing
+We welcome contributions from the community to improve this dashboard. If you have any suggestions, bug reports, or feature requests, please create an issue.
+Feel free to customize this README file to provide more specific information about your Road Accidents Insights Dashboard, including installation instructions, usage guidelines, and any additional features or details. Make sure to update the placeholders like yourusername and dashboard_screenshot.png with your actual GitHub username and dashboard screensho
+
+## Acknowledgments
+We would like to thank the open data providers and contributors who make valuable road accident data available for analysis.
+
+Feel free to customize this README file to provide more specific information about your Road Accidents Insights Dashboard, including installation instructions, usage guidelines, and any additional features or details. Make sure to update the placeholders like yourusername and dashboard_screenshot.png with your actual GitHub username and dashboard screenshot.
+
+## Screenshots
+
+
