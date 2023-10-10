@@ -1,11 +1,4 @@
-# Bi-Dashboards
-
-
-
-## Road Accident Dashboard
-
-![Dashboard Preview](<img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/b6149f43-d6e4-401c-8bd6-30b8783d7d2d">
-)
+# Road Accident Dashboard
 
 ## Project Overview
 
