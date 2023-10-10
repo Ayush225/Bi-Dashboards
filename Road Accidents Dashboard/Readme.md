@@ -2,7 +2,7 @@
 
 
 
-# Music Insights Dashboard
+# Road Accident Dashboard
 
 ![Dashboard Preview](<img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/b6149f43-d6e4-401c-8bd6-30b8783d7d2d">
 )
@@ -18,6 +18,7 @@ The Road Accidents Insights Dashboard is a web-based data visualization tool tha
 - **Charts and Graphs**: : Visualize accident statistics using various charts and graphs, such as bar charts, line charts, and pie charts, to understand trends over time.
 
 - **Filtering and Sorting**: Filter and sort accident data by various parameters like date, severity, road conditions, and more
+- 
 ## Getting Started
 
 To use the Road Accidents Insights Dashboard, follow these steps:
@@ -35,12 +36,16 @@ git clone https://github.com/yourusername/road-accidents-dashboard.git
 
 ## Screenshots
 
-<img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/60909400-8c68-4b82-9b6e-63ed20c0f778">
+<img width="666" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/92a9f606-4a70-428d-a1de-6aa43a28d420">
+<img width="672" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/84206ac8-f225-4410-8ced-50f6019408a0">
+
+
 
 ## Usage
-This dashboard is designed to help music industry professionals gain valuable insights from their database. It can be customized and extended to suit specific data analysis needs.
+This dashboard is designed to help Multiple government stakeholders and industry professionals gain valuable insights from their database. It can be customized and extended to suit specific data analysis needs and take crucial decisions to prevent occurence of accidents.
 
 ## Contributing
+We welcome contributions from the community to improve this dashboard. If you have any suggestions, bug reports, or feature requests, please create an issue.
 If you'd like to contribute to this project, please follow these steps:
 
 !) Fork the repository.
@@ -61,4 +66,4 @@ Open a pull request on this repository, describing your changes in detail.
 
 ## Acknowledgments
 Special thanks to the Power BI and PostgreSQL communities for their valuable resources and support.
-Feel free to explore the Music Insights Dashboard and use it to gain insights from your own music database. If you have any questions or feedback, please don't hesitate to open an issue.
+Feel free to customize this README file to provide more specific information about your Road Accidents Insights Dashboard, including installation instructions, usage guidelines, and any additional features or details. Make sure to update the placeholders like yourusername and dashboard_screenshot.png with your actual GitHub username and dashboard screenshot.
