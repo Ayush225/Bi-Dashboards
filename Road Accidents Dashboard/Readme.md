@@ -2,7 +2,7 @@
 
 
 
-# Road Accident Dashboard
+## Road Accident Dashboard
 
 ![Dashboard Preview](<img width="767" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/b6149f43-d6e4-401c-8bd6-30b8783d7d2d">
 )
@@ -13,7 +13,7 @@ The Road Accidents Insights Dashboard is a web-based data visualization tool tha
 
 ## Key Features
 
-- **Interactive Maps: Explore road accident data geographically using interactive maps. Filter and zoom to specific regions to get a detailed view of accident locations.
+- **Interactive Maps**: Explore road accident data geographically using interactive maps. Filter and zoom to specific regions to get a detailed view of accident locations.
 
 - **Charts and Graphs**: : Visualize accident statistics using various charts and graphs, such as bar charts, line charts, and pie charts, to understand trends over time.
 
