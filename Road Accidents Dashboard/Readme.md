@@ -30,6 +30,7 @@ git clone https://github.com/yourusername/road-accidents-dashboard.git
 ## Screenshots
 
 <img width="666" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/92a9f606-4a70-428d-a1de-6aa43a28d420">
+
 <img width="672" alt="image" src="https://github.com/Ayush225/Bi-Dashboards/assets/66459226/84206ac8-f225-4410-8ced-50f6019408a0">
 
 
